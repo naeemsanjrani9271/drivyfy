@@ -1,0 +1,15 @@
+# Flutter dependencies
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_maps_flutter: ^2.0.0
+  get: ^4.6.1
+  provider: ^5.0.0
+  firebase_core: ^2.0.0
+  firebase_auth: ^3.0.0
+  cloud_firestore: ^3.0.0
+  http: ^0.13.3
+
+# Add other necessary packages below
+
